@@ -1,0 +1,85 @@
+body {
+  font-size: 15pt;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#urserRock {
+  margin-top: 30rem;
+  margin-left: 2.5rem;
+  position: absolute;
+}
+
+#urserPaper {
+
+  margin-top: 30rem;
+  margin-left: 10.5rem;
+  position: absolute;
+}
+
+#urserScissor {
+
+  margin-top: 30rem;
+  margin-left: 18rem;
+  position: absolute;
+}
+
+#writePlayerValue {
+
+  margin-top: 20rem;
+  position: absolute;
+}
+
+#writeBotValue {
+
+  margin-top: 10rem;
+  position: absolute;
+}
+
+img {
+  width: 5rem;
+  height: 5rem;
+}
+
+#showPlayerImg {
+  position: absolute;
+  top: 18rem;
+  left: 10rem;
+  border: none;
+}
+
+#showBotImg {
+  position: absolute;
+  top: 8rem;
+  left: 10rem;
+
+
+}
+
+#writeBotScore {
+  position: absolute;
+  top: 10rem;
+  right: 3rem;
+}
+
+#writePlayerScore {
+  position: absolute;
+  top: 20rem;
+  right: 3rem;
+}
+
+#writeWinner {
+  position: absolute;
+  top: 14rem;
+  left: 2rem;
+}
+
+#laughingBot {
+  width: 22rem;
+  height: 22rem;
+  margin-top: 4rem;
+}
