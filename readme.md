@@ -9,4 +9,4 @@ simple rock paper scissor game , created using html css and javascript
 start by picking an outcome  the bot will also pick it own outcome , then the official with evaluate it and give the result . if you first the bot to score ten point ,you win , but if the bot first you, then you lose . click any image to begin and continue
 
 the page automatically reload after winning 
-when you lose , just tap the back navigation button to go back to the formal page
+when you lose , just tap the back navigation button to go back to the previous page
