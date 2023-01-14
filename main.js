@@ -1,5 +1,3 @@
-alert("READ THIS \n rock paper scissor is a game played by two or more people ,in theory, the game has 3 outcomes: a win, loss, or tie. Rock defeats scissors, scissors defeats paper, and paper defeats rock,    The rock is a closed fist; paper is a flat hand with fingers and thumb extended and the palm facing downward; and scissors is a fist with the index and middle fingers fully extended toward the opposing player. Rock wins against scissors; paper wins against rock; and scissors wins against paper.")
-alert("due to somethings , i'll like you to call the 'rock , paper, scissor' yourself, cause the bot is always ready to beat you , start by picking an outcome  the bot will also pick it own outcome , then the official with evaluate it and give the result . if you first the bot to score ten point ,you win , but if the bot first you, then you lose . click any image to begin and continue")
 
 let rockImg = "rock.png";
 let paperImg = "paper.png";
